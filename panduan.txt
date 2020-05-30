@@ -1,0 +1,6 @@
+panduan install
+
+1. Silahkan ekstrak semua rar yang ada, kemudian masukan folder Formfilling kedalam folder FormfillingEkspedisi.
+2. Kemudian ubah nama rename Formfilling menjadi FormfillingEkspedisi.
+3. Setelah itu silahkan cut folder FormEkspedisi dan paste / masukan ke dalam folder Tambahan-dashboard.
+4. Terakhir silahkan rename folder Tambahan-dashboard menjadi FormEkspedisi
